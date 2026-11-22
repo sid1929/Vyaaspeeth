@@ -1,0 +1,541 @@
+[
+  {
+    "id": "1",
+    "title": "Hamilton - The Musical",
+    "description": "Experience the revolutionary story of Alexander Hamilton in this Tony Award-winning musical that's taking Mumbai by storm.",
+    "longDescription": "Hamilton is the epic saga that follows the rise of Founding Father Alexander Hamilton as he fights for honor, love, and a legacy that would shape the course of a nation. This Indian adaptation brings the story to life with local cultural elements while maintaining the original's powerful narrative. Based on Ron Chernow's acclaimed biography and set to a score that blends hip-hop, jazz, R&B, and Broadway, Hamilton has had a profound impact on culture, politics, and education worldwide.",
+    "category": "Theater",
+    "startsAt": "2027-01-16T19:30:00+05:30",
+    "time": "7:30 PM",
+    "venue": "Prithvi Theatre",
+    "city": "Mumbai",
+    "duration": "2 hours 45 minutes",
+    "rating": 4.8,
+    "reviewCount": 1250,
+    "tiers": [
+      {
+        "name": "Premium",
+        "price": 2999,
+        "available": true
+      },
+      {
+        "name": "Standard",
+        "price": 1999,
+        "available": true
+      },
+      {
+        "name": "Economy",
+        "price": 999,
+        "available": false
+      }
+    ],
+    "cast": [
+      "Rajesh Kumar",
+      "Priya Sharma",
+      "Vikash Gupta",
+      "Meera Joshi"
+    ],
+    "features": [
+      "Air Conditioning",
+      "Parking Available",
+      "Food & Beverages",
+      "Wheelchair Accessible",
+      "Metro Connectivity"
+    ],
+    "trending": true,
+    "hall": {
+      "rows": 10,
+      "cols": 14,
+      "aisleAfter": 7,
+      "tiers": {
+        "Premium": [
+          "A",
+          "B",
+          "C"
+        ],
+        "Standard": [
+          "D",
+          "E",
+          "F",
+          "G"
+        ],
+        "Economy": [
+          "H",
+          "I",
+          "J"
+        ]
+      }
+    }
+  },
+  {
+    "id": "2",
+    "title": "Stand-up Comedy Night with Kapil Sharma",
+    "description": "Get ready to laugh till your stomach hurts with India's comedy king in this hilarious stand-up special.",
+    "longDescription": "Join Kapil Sharma for an evening of non-stop laughter as he brings his signature humor and wit to the stage. Known for his incredible timing and relatable comedy, Kapil will take you through a journey of everyday situations that will leave you in splits. This show features his best material covering everything from family life to social observations, delivered with his trademark charm and energy.",
+    "category": "Comedy",
+    "startsAt": "2027-01-23T20:00:00+05:30",
+    "time": "8:00 PM",
+    "venue": "Phoenix Mills",
+    "city": "Mumbai",
+    "duration": "1 hour 30 minutes",
+    "rating": 4.6,
+    "reviewCount": 890,
+    "tiers": [
+      {
+        "name": "Premium",
+        "price": 1599,
+        "available": true
+      },
+      {
+        "name": "Standard",
+        "price": 1299,
+        "available": true
+      },
+      {
+        "name": "Economy",
+        "price": 799,
+        "available": true
+      }
+    ],
+    "cast": [
+      "Kapil Sharma"
+    ],
+    "features": [
+      "Air Conditioning",
+      "Parking Available",
+      "Food & Beverages",
+      "Photography Allowed",
+      "Metro Connectivity"
+    ],
+    "trending": true,
+    "hall": {
+      "rows": 9,
+      "cols": 12,
+      "aisleAfter": 6,
+      "tiers": {
+        "Premium": [
+          "A",
+          "B"
+        ],
+        "Standard": [
+          "C",
+          "D",
+          "E",
+          "F"
+        ],
+        "Economy": [
+          "G",
+          "H",
+          "I"
+        ]
+      }
+    }
+  },
+  {
+    "id": "3",
+    "title": "Classical Music Concert - Pandit Jasraj",
+    "description": "An evening of soulful classical music by the legendary Pandit Jasraj and his disciples.",
+    "longDescription": "Experience the divine melodies of Indian classical music in this tribute concert featuring the timeless compositions of the late Pandit Jasraj. This concert will showcase the rich tradition of the Mewati Gharana with performances by his disciples and students. The evening will feature a mix of popular ragas and rare compositions that made Pandit Jasraj a legend in the world of classical music.",
+    "category": "Classical Music",
+    "startsAt": "2027-01-30T19:00:00+05:30",
+    "time": "7:00 PM",
+    "venue": "NCPA",
+    "city": "Mumbai",
+    "duration": "2 hours 30 minutes",
+    "rating": 4.9,
+    "reviewCount": 650,
+    "tiers": [
+      {
+        "name": "Premium",
+        "price": 2299,
+        "available": true
+      },
+      {
+        "name": "Standard",
+        "price": 1899,
+        "available": true
+      },
+      {
+        "name": "Economy",
+        "price": 1299,
+        "available": false
+      }
+    ],
+    "cast": [
+      "Pandit Sanjeev Abhyankar",
+      "Rattan Mohan Sharma",
+      "Sanchita Jha",
+      "Shivani Kashyap"
+    ],
+    "features": [
+      "Air Conditioning",
+      "Parking Available",
+      "Recorded for Posterity",
+      "Meet & Greet",
+      "Metro Connectivity"
+    ],
+    "trending": false,
+    "hall": {
+      "rows": 10,
+      "cols": 14,
+      "aisleAfter": 7,
+      "tiers": {
+        "Premium": [
+          "A",
+          "B",
+          "C"
+        ],
+        "Standard": [
+          "D",
+          "E",
+          "F",
+          "G"
+        ],
+        "Economy": [
+          "H",
+          "I",
+          "J"
+        ]
+      }
+    }
+  },
+  {
+    "id": "4",
+    "title": "Bollywood Night Live",
+    "description": "Dance the night away with the biggest Bollywood hits performed live by top artists.",
+    "longDescription": "Get ready for the ultimate Bollywood experience with live performances of your favorite songs from the past and present. This high-energy concert features a mix of classic hits and contemporary chartbusters, performed by renowned playback singers and dancers. The show includes stunning choreography, colorful costumes, and an interactive experience that will make you feel like you're part of a Bollywood movie.",
+    "category": "Modern Music",
+    "startsAt": "2027-02-06T20:30:00+05:30",
+    "time": "8:30 PM",
+    "venue": "Hard Rock Cafe",
+    "city": "Pune",
+    "duration": "3 hours",
+    "rating": 4.5,
+    "reviewCount": 445,
+    "tiers": [
+      {
+        "name": "Premium",
+        "price": 1499,
+        "available": true
+      },
+      {
+        "name": "Standard",
+        "price": 999,
+        "available": true
+      },
+      {
+        "name": "Economy",
+        "price": 699,
+        "available": true
+      }
+    ],
+    "cast": [
+      "Arijit Singh",
+      "Shreya Ghoshal",
+      "Sunidhi Chauhan",
+      "Rahat Fateh Ali Khan"
+    ],
+    "features": [
+      "Air Conditioning",
+      "Parking Available",
+      "Food & Beverages",
+      "Dancing Allowed",
+      "Photography Allowed"
+    ],
+    "trending": true,
+    "hall": {
+      "rows": 12,
+      "cols": 16,
+      "aisleAfter": 8,
+      "tiers": {
+        "Premium": [
+          "A",
+          "B",
+          "C"
+        ],
+        "Standard": [
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ],
+        "Economy": [
+          "I",
+          "J",
+          "K",
+          "L"
+        ]
+      }
+    }
+  },
+  {
+    "id": "5",
+    "title": "Bharatanatyam Recital",
+    "description": "Traditional South Indian classical dance performance by renowned artists showcasing ancient stories.",
+    "longDescription": "Immerse yourself in the rich cultural heritage of South India with this mesmerizing Bharatanatyam recital. The performance will showcase the classical dance form's intricate movements, expressions, and storytelling through traditional pieces that depict stories from Indian mythology. The evening will feature both solo and group performances by acclaimed dancers, accompanied by live Carnatic music.",
+    "category": "Dance",
+    "startsAt": "2027-02-13T18:30:00+05:30",
+    "time": "6:30 PM",
+    "venue": "Chowdiah Memorial Hall",
+    "city": "Bangalore",
+    "duration": "2 hours",
+    "rating": 4.7,
+    "reviewCount": 320,
+    "tiers": [
+      {
+        "name": "Premium",
+        "price": 999,
+        "available": true
+      },
+      {
+        "name": "Standard",
+        "price": 799,
+        "available": true
+      },
+      {
+        "name": "Economy",
+        "price": 499,
+        "available": true
+      }
+    ],
+    "cast": [
+      "Alarmel Valli",
+      "Malavika Sarukkai",
+      "Priyadarsini Govind",
+      "Rama Vaidyanathan"
+    ],
+    "features": [
+      "Air Conditioning",
+      "Cultural Program",
+      "Traditional Snacks",
+      "Program Notes",
+      "Photography Allowed"
+    ],
+    "trending": false,
+    "hall": {
+      "rows": 10,
+      "cols": 14,
+      "aisleAfter": 7,
+      "tiers": {
+        "Premium": [
+          "A",
+          "B",
+          "C"
+        ],
+        "Standard": [
+          "D",
+          "E",
+          "F",
+          "G"
+        ],
+        "Economy": [
+          "H",
+          "I",
+          "J"
+        ]
+      }
+    }
+  },
+  {
+    "id": "6",
+    "title": "Contemporary Art Exhibition",
+    "description": "Explore modern Indian art through this curated contemporary exhibition featuring emerging artists.",
+    "longDescription": "Discover the vibrant world of contemporary Indian art in this specially curated exhibition featuring works by emerging and established artists. The exhibition showcases various mediums including paintings, sculptures, installations, and digital art that reflect modern India's diverse cultural landscape. Visitors can interact with artists and gain insights into their creative processes and inspirations.",
+    "category": "Art & Culture",
+    "startsAt": "2027-02-20T10:00:00+05:30",
+    "time": "10:00 AM",
+    "venue": "National Gallery",
+    "city": "Delhi",
+    "duration": "All Day",
+    "rating": 4.4,
+    "reviewCount": 180,
+    "tiers": [
+      {
+        "name": "Premium",
+        "price": 499,
+        "available": true
+      },
+      {
+        "name": "Standard",
+        "price": 299,
+        "available": true
+      },
+      {
+        "name": "Economy",
+        "price": 199,
+        "available": true
+      }
+    ],
+    "cast": [
+      "Various Contemporary Artists"
+    ],
+    "features": [
+      "Air Conditioning",
+      "Guided Tours",
+      "Artist Interactions",
+      "Catalog Included",
+      "Photography Allowed"
+    ],
+    "trending": false,
+    "hall": {
+      "rows": 8,
+      "cols": 12,
+      "aisleAfter": 6,
+      "tiers": {
+        "Premium": [
+          "A",
+          "B"
+        ],
+        "Standard": [
+          "C",
+          "D",
+          "E"
+        ],
+        "Economy": [
+          "F",
+          "G",
+          "H"
+        ]
+      }
+    }
+  },
+  {
+    "id": "7",
+    "title": "Rock Concert - Indian Ocean Live",
+    "description": "Experience the magic of Indian Ocean live in concert with their greatest hits and new compositions.",
+    "longDescription": "Get ready to rock with India's most celebrated fusion band, Indian Ocean, as they perform their iconic hits and new compositions. Known for their unique blend of Indian classical music with rock, the band will take you on a musical journey spanning their illustrious career. Expect powerful vocals, intricate guitar work, and the signature tabla rhythms that have made them legends in the Indian music scene.",
+    "category": "Modern Music",
+    "startsAt": "2027-02-27T20:00:00+05:30",
+    "time": "8:00 PM",
+    "venue": "Palace Grounds",
+    "city": "Bangalore",
+    "duration": "2 hours 30 minutes",
+    "rating": 4.8,
+    "reviewCount": 920,
+    "tiers": [
+      {
+        "name": "Premium",
+        "price": 1999,
+        "available": true
+      },
+      {
+        "name": "Standard",
+        "price": 1599,
+        "available": true
+      },
+      {
+        "name": "Economy",
+        "price": 999,
+        "available": false
+      }
+    ],
+    "cast": [
+      "Susmit Sen",
+      "Rahul Ram",
+      "Amit Kilam",
+      "Himanshu Joshi"
+    ],
+    "features": [
+      "Open Air Venue",
+      "Parking Available",
+      "Food & Beverages",
+      "Merchandise Stall",
+      "Photography Allowed"
+    ],
+    "trending": true,
+    "hall": {
+      "rows": 12,
+      "cols": 16,
+      "aisleAfter": 8,
+      "tiers": {
+        "Premium": [
+          "A",
+          "B",
+          "C"
+        ],
+        "Standard": [
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ],
+        "Economy": [
+          "I",
+          "J",
+          "K",
+          "L"
+        ]
+      }
+    }
+  },
+  {
+    "id": "8",
+    "title": "Shakespeare's Hamlet",
+    "description": "A modern adaptation of the classic tragedy performed by acclaimed theater actors.",
+    "longDescription": "Experience Shakespeare's timeless masterpiece in this powerful modern adaptation that brings the tragedy of Hamlet to contemporary audiences. Set in present-day India, this production explores themes of revenge, madness, and moral corruption through stellar performances and innovative staging. The production maintains the poetic beauty of Shakespeare's language while making it accessible to modern viewers.",
+    "category": "Theater",
+    "startsAt": "2027-03-06T19:00:00+05:30",
+    "time": "7:00 PM",
+    "venue": "Rang Sharda",
+    "city": "Mumbai",
+    "duration": "3 hours (with intermission)",
+    "rating": 4.6,
+    "reviewCount": 670,
+    "tiers": [
+      {
+        "name": "Premium",
+        "price": 2199,
+        "available": true
+      },
+      {
+        "name": "Standard",
+        "price": 1899,
+        "available": true
+      },
+      {
+        "name": "Economy",
+        "price": 1399,
+        "available": true
+      }
+    ],
+    "cast": [
+      "Naseeruddin Shah",
+      "Ratna Pathak Shah",
+      "Imaad Shah",
+      "Heeba Shah"
+    ],
+    "features": [
+      "Air Conditioning",
+      "Parking Available",
+      "Program Notes",
+      "Meet & Greet",
+      "Metro Connectivity"
+    ],
+    "trending": false,
+    "hall": {
+      "rows": 10,
+      "cols": 14,
+      "aisleAfter": 7,
+      "tiers": {
+        "Premium": [
+          "A",
+          "B",
+          "C"
+        ],
+        "Standard": [
+          "D",
+          "E",
+          "F",
+          "G"
+        ],
+        "Economy": [
+          "H",
+          "I",
+          "J"
+        ]
+      }
+    }
+  }
+]

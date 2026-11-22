@@ -1,0 +1,19 @@
+{
+  "name": "vyaaspeeth",
+  "private": true,
+  "version": "2.1.0",
+  "description": "Event & entertainment booking platform with a cinema-style seat map and security-first backend",
+  "scripts": {
+    "setup": "npm --prefix backend install && npm --prefix frontend install",
+    "dev": "concurrently -k -n api,web -c magenta,cyan \"npm --prefix backend run dev:memory\" \"npm --prefix frontend run dev\"",
+    "dev:mongo": "concurrently -k -n api,web -c magenta,cyan \"npm --prefix backend run dev\" \"npm --prefix frontend run dev\"",
+    "test": "npm --prefix backend test",
+    "typecheck": "npm --prefix frontend run typecheck",
+    "doctor": "npm --prefix backend run doctor",
+    "e2e": "node scripts/e2e.js"
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.5"
+  },
+  "license": "MIT"
+}

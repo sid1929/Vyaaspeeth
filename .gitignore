@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Next.js
+frontend/.next/
+frontend/out/
+frontend/.vercel/
+
+# Environment files and secrets
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+
+# Build and caches
+dist/
+build/
+coverage/
+*.log
+.DS_Store
+desktop.ini
+*.tsbuildinfo
+
+.dev-secrets.json
